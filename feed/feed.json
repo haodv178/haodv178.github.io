@@ -1,0 +1,198 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Hao&#39;s Blog",
+    "language": "en",
+    "home_page_url": "https://haodv178.github.io/",
+    "feed_url": "https://haodv178.github.io/feed/feed.json",
+    "description": "I am writing about my experiences as a developer.",
+    "author": {
+        "name": "Your Name Here",
+        "url": "https://haodv178.github.io/about/"
+    },
+    "items": [
+        {
+            "id": "https://haodv178.github.io/blog/yaoe2v2284/",
+            "url": "https://haodv178.github.io/blog/yaoe2v2284/",
+            "title": "Caching tutorial",
+            "content_html": "<p><a href=\"https://www.mnot.net/cache_docs\">https://www.mnot.net/cache_docs</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/y8xwyfnbkv/",
+            "url": "https://haodv178.github.io/blog/y8xwyfnbkv/",
+            "title": "MySQL explain",
+            "content_html": "<p><a href=\"https://www.eversql.com/mysql-explain-example-explaining-mysql-explain-using-stackoverflow-data\">https://www.eversql.com/mysql-explain-example-explaining-mysql-explain-using-stackoverflow-data</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/y4a5g93170/",
+            "url": "https://haodv178.github.io/blog/y4a5g93170/",
+            "title": "Teach yourself computer science",
+            "content_html": "<p><a href=\"https://teachyourselfcs.com\">https://teachyourselfcs.com</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/xybs3xrpwk/",
+            "url": "https://haodv178.github.io/blog/xybs3xrpwk/",
+            "title": "Git hooks",
+            "content_html": "<p><a href=\"https://githooks.com\">https://githooks.com</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/tiets3hej7/",
+            "url": "https://haodv178.github.io/blog/tiets3hej7/",
+            "title": "High performance browser networking",
+            "content_html": "<p><a href=\"https://hpbn.co\">https://hpbn.co</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/rf7ekicvi7/",
+            "url": "https://haodv178.github.io/blog/rf7ekicvi7/",
+            "title": "An in-depth look at database indexing",
+            "content_html": "<p><a href=\"https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd\">https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/pw6c8csjh6/",
+            "url": "https://haodv178.github.io/blog/pw6c8csjh6/",
+            "title": "Magento lazyload images",
+            "content_html": "<p><a href=\"https://github.com/develodesign/magento-module-pagebuilder-lazyload-images\">https://github.com/develodesign/magento-module-pagebuilder-lazyload-images</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/om4nff4pk3/",
+            "url": "https://haodv178.github.io/blog/om4nff4pk3/",
+            "title": "Robots.txt",
+            "content_html": "<p><a href=\"https://github.com/google/robotstxt\">https://github.com/google/robotstxt</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/nm08io6jmi/",
+            "url": "https://haodv178.github.io/blog/nm08io6jmi/",
+            "title": "Nginx handbook",
+            "content_html": "<p><a href=\"https://www.freecodecamp.org/news/the-nginx-handbook\">https://www.freecodecamp.org/news/the-nginx-handbook</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/niy04iworq/",
+            "url": "https://haodv178.github.io/blog/niy04iworq/",
+            "title": "Magento AWS installation",
+            "content_html": "<p><a href=\"https://github.com/Genaker/Magento-AWS-Linux-2-Installation\">https://github.com/Genaker/Magento-AWS-Linux-2-Installation</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/lvatgc7396/",
+            "url": "https://haodv178.github.io/blog/lvatgc7396/",
+            "title": "An introduction to Akamai CDN",
+            "content_html": "<p><a href=\"https://www.freecodecamp.org/news/an-introduction-to-the-akamai-content-delivery-network-806aa16d8781\">https://www.freecodecamp.org/news/an-introduction-to-the-akamai-content-delivery-network-806aa16d8781</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/lkt7wzlfar/",
+            "url": "https://haodv178.github.io/blog/lkt7wzlfar/",
+            "title": "Finite state automata in Java",
+            "content_html": "<p><a href=\"https://chortle.ccsu.edu/finiteautomata\">https://chortle.ccsu.edu/finiteautomata</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/l8f66xt4tw/",
+            "url": "https://haodv178.github.io/blog/l8f66xt4tw/",
+            "title": "Magento webhook",
+            "content_html": "<ul>\n<p><li><a href=\"https://github.com/haodv178/magento-2-webhook\">https://github.com/haodv178/magento-2-webhook</a></li></p>\n<p><li><a href=\"https://webhook.site\">https://webhook.site</a></li></p>\n</ul>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/k8zfhhj9wv/",
+            "url": "https://haodv178.github.io/blog/k8zfhhj9wv/",
+            "title": "MySQL performance myISAM vs innoDB",
+            "content_html": "<p><a href=\"https://www.liquidweb.com/kb/mysql-performance-myisam-vs-innodb\">https://www.liquidweb.com/kb/mysql-performance-myisam-vs-innodb</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/i86vv4gksv/",
+            "url": "https://haodv178.github.io/blog/i86vv4gksv/",
+            "title": "Magento performance toolkit",
+            "content_html": "<p><a href=\"https://github.com/magento/magento2/tree/2.4/setup/performance-toolkit\">https://github.com/magento/magento2/tree/2.4/setup/performance-toolkit</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/fxlhhhv3ca/",
+            "url": "https://haodv178.github.io/blog/fxlhhhv3ca/",
+            "title": "Magento notifications",
+            "content_html": "<p><a href=\"https://bartoszherba.github.io/magento2-notifications-service-client\">https://bartoszherba.github.io/magento2-notifications-service-client</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/fxahs1buis/",
+            "url": "https://haodv178.github.io/blog/fxahs1buis/",
+            "title": "Nginx config",
+            "content_html": "<p><a href=\"https://www.digitalocean.com/community/tools/nginx\">https://www.digitalocean.com/community/tools/nginx</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/ft2xl53u16/",
+            "url": "https://haodv178.github.io/blog/ft2xl53u16/",
+            "title": "Performance optimization guideline",
+            "content_html": "<p><a href=\"https://viblo.asia/s/performance-optimization-guideline-DVK2jDQ2KLj\">https://viblo.asia/s/performance-optimization-guideline-DVK2jDQ2KLj</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/dccckmo167/",
+            "url": "https://haodv178.github.io/blog/dccckmo167/",
+            "title": "Magento performance toolkit",
+            "content_html": "<p><a href=\"https://github.com/magento/magento2/tree/2.4/setup/performance-toolkit\">https://github.com/magento/magento2/tree/2.4/setup/performance-toolkit</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/ayqhwksnu7/",
+            "url": "https://haodv178.github.io/blog/ayqhwksnu7/",
+            "title": "Visualising algorithm",
+            "content_html": "<p><a href=\"https://visualgo.net\">https://visualgo.net</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/arqg73bhn1/",
+            "url": "https://haodv178.github.io/blog/arqg73bhn1/",
+            "title": "Magento maintenance IP is not working behind Varnish",
+            "content_html": "<p><a href=\"https://github.com/magento/magento2/issues/8975\">https://github.com/magento/magento2/issues/8975</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/6vaqohwyyr/",
+            "url": "https://haodv178.github.io/blog/6vaqohwyyr/",
+            "title": "Unicode and character sets",
+            "content_html": "<p><a href=\"https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses\">https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        ,
+        {
+            "id": "https://haodv178.github.io/blog/44sx41shzy/",
+            "url": "https://haodv178.github.io/blog/44sx41shzy/",
+            "title": "Magento performance best practices",
+            "content_html": "<p><a href=\"https://experienceleague.adobe.com/docs/commerce-operations/performance-best-practices/overview.html\">https://experienceleague.adobe.com/docs/commerce-operations/performance-best-practices/overview.html</a></p>\n",
+            "date_published": "2023-05-14T13:46:44Z"
+        }
+        
+    ]
+}
